@@ -1,5 +1,3 @@
-# ¡Hola! 
-### ***Más que un programador***
 <!--
 **Sevigo-code/Sevigo-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# ¡Hola! 
+### ***Más que un programador.***
+
+En mi repositorio tengo unos cuantos proyectos que he desarrollado con diferentes frameworks y lenguajes, principalmente React y sus librerias, JavaScript y C#.
