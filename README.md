@@ -1,17 +1,17 @@
 <h1 align="center">¡Hola! Soy Juan</h1>
 
 <p align="center">
-  Desarrollador web apasionado por la tecnologia y el aprendizaje.
+  Soy una persona apasionada por el arte, el desarrollo web, la tecnologia y el aprendizaje.
 </p>
 
 ---
 
 ### 👨‍💻 Sobre mí
 
-- 💻 Me especializo en desarrollo web con **React**, **JavaScript**, **Node.js**, y más.
-- 🎯 Me enfoco en crear aplicaciones intuitivas, accesibles y con buen diseño.
-- 📚 Siempre estoy aprendiendo nuevas tecnologías y mejorando mis habilidades.
-- 🌱 Actualmente estoy explorando más sobre **React Native** y **TypeScript**.
+-  Me especializo en desarrollo web con **React**, **JavaScript**, **Node.js**, y más.
+-  Me enfoco en crear aplicaciones intuitivas, accesibles y con buen diseño.
+-  Siempre estoy aprendiendo nuevas tecnologías y mejorando mis habilidades.
+-  Actualmente estoy explorando más sobre **React Native** y **TypeScript**.
 
 ---
 
@@ -29,12 +29,12 @@
 
 ### Contacto
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/juan-camilo-cartagena-machado-39b126214/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/juan-camilo-cartagena-machado-39b126214/)
 
-- [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:juancamilocartagena7@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:juancamilocartagena7@gmail.com)
 
 
 ---
 
-<p align="center">Gracias por visitar mi perfil 🙌</p>
+<p align="center">Gracias por visitar mi perfil</p>
 
