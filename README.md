@@ -24,21 +24,13 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-</p>
 
 ---
 
-### 📫 Cómo contactarme
+### Contacto
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil/)
-- 📧 [Email](mailto:tu-email@example.com)
-- 🌐 [Tu portafolio](https://tusitio.dev) *(opcional)*
+- 💼 [LinkedIn]([https://www.linkedin.com/in/tu-perfil/](https://www.linkedin.com/in/juan-camilo-cartagena-machado-39b126214/))
+- 📧 [Email](mailto:juancamilocartagena7@gmail.com)
 
 ---
 
