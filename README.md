@@ -29,9 +29,10 @@
 
 ### Contacto
 
-- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/juan-camilo-cartagena-machado-39b126214/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/juan-camilo-cartagena-machado-39b126214/)
 
-- 📧 [Email](mailto:juancamilocartagena7@gmail.com)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:juancamilocartagena7@gmail.com)
+
 
 ---
 
