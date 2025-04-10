@@ -29,7 +29,7 @@
 
 ### Contacto
 
-- 💼 [LinkedIn]([(https://www.linkedin.com/in/juan-camilo-cartagena-machado-39b126214/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/juan-camilo-cartagena-machado-39b126214/)
 - 📧 [Email](mailto:juancamilocartagena7@gmail.com)
 
 ---
