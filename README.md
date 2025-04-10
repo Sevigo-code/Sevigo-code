@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola!</h1>
 
 <p align="center">
-  Soy Juan, una persona apasionada por el arte, el desarrollo web, la tecnologia y el aprendizaje.
+  Soy Juan, una persona apasionada por el arte, el desarrollo web, la tecnologia y siempre aprender cosas nuevas.
 </p>
 
 ---
