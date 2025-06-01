@@ -6,7 +6,7 @@
 
 ---
 
-### 👨‍💻 Sobre mí
+### 👨‍💻 About me
 
 -  Me especializo en desarrollo web con **React**, **JavaScript**, **Node.js**, y más.
 -  Me enfoco en crear aplicaciones intuitivas, accesibles y con buen diseño.
@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+### 🛠️ Techologies and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -27,7 +27,7 @@
 
 ---
 
-### Contacto
+### Contact me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/juan-camilo-cartagena-machado-39b126214/)
 
