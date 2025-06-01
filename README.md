@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola!</h1>
+<h1 align="center">Hi!</h1>
 
 <p align="center">
   Soy Juan, apasionado por el arte, el desarrollo web, la tecnologia y siempre aprender cosas nuevas.
@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠️ Techologies and Tools
+### 🛠️ Techologies and tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
